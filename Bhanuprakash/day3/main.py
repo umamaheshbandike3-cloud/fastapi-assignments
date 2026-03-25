@@ -16,7 +16,4 @@ def create_user(user: User):
         "age": user.age
     }
 
-    {
-  "name": "Bhanu",
-  "age": 23
-}
+   
